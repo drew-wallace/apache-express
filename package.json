@@ -1,0 +1,10 @@
+{
+  "name"         : "apache-express",
+  "version"      : "0.0.1",
+  "description"  : "A node server that runs PHP",
+  "main"         : "server.js",
+  "author"       : "drew-wallace",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+    }
+}
